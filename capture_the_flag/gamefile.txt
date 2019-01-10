@@ -1,0 +1,7 @@
+1 SeekerBlue1 2312 blues 40 20 Seeker
+1 HunterBlue1 347920 blues 50 70 Hunter 
+   
+2 SeekerRed2 3234 reds 600 40 Seeker
+2 HunterBlue2 344 reds 550 90 Hunter
+
+
